@@ -1,8 +1,9 @@
 package com.you.tv_living;
 
 import android.os.Bundle;
-import com.you.tv_living.view.base.activity.BaseActivity;
+import com.you.tv_living.view.base.BaseActivity;
 import butterknife.ButterKnife;
+
 
 public class MainActivity extends BaseActivity
 {

@@ -1,4 +1,4 @@
-package com.you.tv_living.view.base.activity;
+package com.you.tv_living.view.base;
 
 import android.content.Context;
 import android.graphics.Color;
